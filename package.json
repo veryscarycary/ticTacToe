@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/veryscarycary/ticTacToe/issues"
   },
-  "homepage": "https://github.com/veryscarycary/ticTacToe#readme"
+  "homepage": "https://github.com/veryscarycary/ticTacToe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
